@@ -45,3 +45,5 @@ Available commands:
 - count
         `);
 }
+
+console.log("UI feature added");
