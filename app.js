@@ -47,5 +47,5 @@ Available commands:
 }
 
 console.log("UI feature added");
-console.log("UI feature added in Day 2");
+console.log("UI feature tested in Day 2");
 
